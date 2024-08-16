@@ -1,6 +1,6 @@
 ﻿What to run?
--train_model.py
--predict_pos.py
+- train_model.py
+- predict_pos.py
 
 Input data:
 - train_model.py: POS_input.csv (created by merging POS.csv and assamese_tag.txt)
