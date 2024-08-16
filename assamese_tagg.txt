@@ -1,4 +1,4 @@
-Index	Word		Tag
+
 	ভিয়েটনামত 	Adverb
 	তেল 		Noun
 	আৰু 		Conjunction
@@ -16,8 +16,6 @@ Index	Word		Tag
 	আহ্বান 		Verb
 	জনায় 		Adverb
 	ৰাষ্ট্ৰপতি 		Noun
-	ত্রাণদাই 		
-	কোৱাঙে
 
 	উপযুক্ত 		Adjective
 	অনুমোদন 		Adverb

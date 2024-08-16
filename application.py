@@ -20,8 +20,7 @@ df = pd.DataFrame(data, columns=['word', 'pos'])
 # Feature extraction
 vectorizer = TfidfVectorizer(analyzer='char', ngram_range=(1, 3))  # character-level n-grams
 X = vectorizer.fit_transform(df['word'])
-print("vectorizer",vectorizer)
-print("X",X)
+
 
 # Encode target labels
 label_encoder = LabelEncoder()
